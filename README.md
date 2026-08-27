@@ -1,19 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub;J'apprends+Python+%7C+C%2B%2B+%7C+Lua+%7C+Web;Toujours+en+train+de+coder+...;Commit+after+commit+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-### Salut, moi c'est ope17 👋
-
-J'apprends à coder depuis peu. Mon truc, c'est de bien comprendre les bases avant de me lancer dans des trucs compliqués.
-
-- 🌱 **En ce moment :** HTML, CSS, Python, C++, Lua
-- 🎯 **Objectif :** Coder des projets propres, même petits
-- 💬 **N'hésite pas :** Si tu débutes aussi, on peut s'entraider
-- ⚡ **Mentalité :** Tant que il y a pas de Brawlhalla 2 et de buff sur la Rocket Lance j'apprend à coder.
-
----
-
-### 🛠️ Tech Stack & Outils
+<img src="https://img.shields.io/badge/STACK-TECH-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="Tech Stack" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -27,17 +12,15 @@ J'apprends à coder depuis peu. Mon truc, c'est de bien comprendre les bases ava
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
+<br>
+
 ---
 
-### 📫 Me contacter
+<br>
+
+<img src="https://img.shields.io/badge/CONTACT-MOI-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="Contact" />
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:ton-email@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>© 2024 ope17</sub>
 </div>
