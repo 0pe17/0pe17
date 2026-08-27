@@ -13,7 +13,7 @@ J'apprends à coder depuis peu. Mon truc, c'est de bien comprendre les bases ava
 
 ---
 
-### ️ Tech Stack & Outils
+### 🛠️ Tech Stack & Outils
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -25,29 +25,6 @@ J'apprends à coder depuis peu. Mon truc, c'est de bien comprendre les bases ava
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
----
-
-### 📊 Mes Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ope17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="ope17 GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ope17&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ope17&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
-
-<br>
-
-### 📈 Graphique d'activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ope17&theme=tokyo-night&hide_border=true&bg_color=00000000&title_color=58A6FF&color=58A6FF" alt="Activity Graph" />
 </div>
 
 ---
