@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub;J'apprends+Python+%7C+C%2B%2B+%7C+Lua+%7C+Web;Toujours+en+train+de+coder+...;Commit+after+commit+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br>
-
-### 👋 Le contexte
-
-J'ai commencé à coder récemment. Mon approche : apprendre solidement, pas rapidement.
-
-<br>
 
 <!-- ICI : Les "emojis" custom noir sur blanc -->
 <div align="left">
