@@ -1,20 +1,4 @@
 
-<!-- ICI : Les "emojis" custom noir sur blanc -->
-<div align="left">
-  <img src="https://img.shields.io/badge/▹_FOCUS-Apprentissage-000000?style=flat&labelColor=FFFFFF" alt="Focus" />
-  <br>
-  <img src="https://img.shields.io/badge/▹_BUT-Code_propre-000000?style=flat&labelColor=FFFFFF" alt="But" />
-  <br>
-  <img src="https://img.shields.io/badge/▹_MINDSET-Zero_copier_coller-000000?style=flat&labelColor=FFFFFF" alt="Mindset" />
-  <br>
-  <img src="https://img.shields.io/badge/▹_DISPO-Entraide_debutant-000000?style=flat&labelColor=FFFFFF" alt="Dispo" />
-</div>
-
-<br>
-
----
-
-<br>
 
 <img src="https://img.shields.io/badge/STACK-TECH-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="Tech Stack" />
 
