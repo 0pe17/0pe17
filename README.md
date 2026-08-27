@@ -4,17 +4,16 @@
 
 ### Salut, moi c'est ope17 👋
 
-Je suis développeur en herbe. Je viens de commencer à coder et mon objectif est simple : **maîtriser les fondamentaux avant de viser la lune.** 
-Pas de framework magique, pas de raccourcis. Je construis mes bases une ligne de code à la fois.
+J'apprends à coder depuis peu. Mon truc, c'est de bien comprendre les bases avant de me lancer dans des trucs compliqués.
 
-- 🌱 **Ce que j'apprends actuellement :** HTML, CSS, Python, C++, Lua.
-- 🎯 **Mon focus :** Comprendre la logique algorithmique et créer des projets propres.
-- 💬 **Demande-moi :** De l'aide pour comprendre un concept de base, on apprend mieux ensemble.
-- ⚡ **Fun fact :** Je préfère passer 3 heures à comprendre un bug plutôt que de copier-coller une solution.
+- 🌱 **En ce moment :** HTML, CSS, Python, C++, Lua
+- 🎯 **Objectif :** Coder des projets propres, même petits
+- 💬 **N'hésite pas :** Si tu débutes aussi, on peut s'entraider
+- ⚡ **Mentalité :** Tant que il y a pas de Brawlhalla 2 et de buff sur la Rocket Lance j'apprend à coder.
 
 ---
 
-### 🛠️ Tech Stack & Outils
+### ️ Tech Stack & Outils
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -33,14 +32,14 @@ Pas de framework magique, pas de raccourcis. Je construis mes bases une ligne de
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ope17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="ope17's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ope17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="ope17 GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ope17&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ope17&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ope17&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -56,7 +55,6 @@ Pas de framework magique, pas de raccourcis. Je construis mes bases une ligne de
 ### 📫 Me contacter
 
 <div align="center">
-  <!-- Remplace les # par tes vrais liens si tu en as, sinon laisse comme ça pour l'instant -->
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:ton-email@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -64,5 +62,5 @@ Pas de framework magique, pas de raccourcis. Je construis mes bases une ligne de
 <br>
 
 <div align="center">
-  <sub>Fait avec 💻 et beaucoup de café par <strong>ope17</strong></sub>
+  <sub>© 2024 ope17</sub>
 </div>
